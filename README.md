@@ -146,7 +146,7 @@ A companion repository describes the processing of the surface electromyographic
 
 ## References
 
-Achard, J. A., Gajdos Preuss, T., & Servant, M. *Graded Motor-Preparatory Dynamics Preserve Perceptual Decisions over Short Delays*. Manuscript under review at *The Journal of Neuroscience*. Data and analysis code: https://osf.io/86cbw/overview?view_only=1f47b76612334dc082318a501fda5a4c
+Achard, J. A., Gajdos Preuss, T., & Servant, M. *Under review*
 
 Allen, J. B., & Rabiner, L. R. (1977). A unified approach to short-time Fourier analysis and synthesis. *Proceedings of the IEEE, 65*(11), 1558–1564. https://doi.org/10.1109/PROC.1977.10770
 
